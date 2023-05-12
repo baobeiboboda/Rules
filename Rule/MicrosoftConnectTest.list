@@ -1,0 +1,5 @@
+#微软测试网络连通行域名
+
+
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
